@@ -1,7 +1,4 @@
-Hello there freind,
 
-You Have reached the code for team super team's HeliRig project.
-
-Don't have much to say atm so maybe later.
-
--Isaac, Tom, Shannon
+This code is written for ENCE361 at the University of Canterbury.
+It submitted by Thomas Bingham, Shannon Booth and Isaac Bus.
+Completed 2018 semester 1.
